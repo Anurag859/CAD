@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 @import "tailwindcss";
+=======
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+>>>>>>> d79f0f8f80a9080099f96c2ea8f86c8c6cdd2a98
 
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
